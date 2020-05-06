@@ -1,0 +1,13 @@
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\bin\Debug\netstandard2.0\BookSwap.deps.json
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\bin\Debug\netstandard2.0\BookSwap.dll
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\bin\Debug\netstandard2.0\BookSwap.pdb
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\Cells\BookViewCell.xaml.g.cs
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\SwapDetails.xaml.g.cs
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\BookSwap.AssemblyInfoInputs.cache
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\BookSwap.AssemblyInfo.cs
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\XamlC.stamp
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\BookSwap.dll
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\BookSwap.pdb
+G:\courses\xamarin\Some Projects\BookSwap-master\src\BookSwap\BookSwap\obj\Debug\netstandard2.0\BookSwap.csprojAssemblyReference.cache
